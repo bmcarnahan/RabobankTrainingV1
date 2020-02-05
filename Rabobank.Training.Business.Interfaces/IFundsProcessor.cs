@@ -1,4 +1,6 @@
-﻿
+///// Watch out for unnecessary white space in the code. And the using statements should be within the namespace.
+///// We wouldn't create a separate project for Interfaces, we would create an Interfaces folder in the BusinessLayer project.
+
 using System.Collections.Generic;
 using Rabobank.Training.ClassLibrary.DomainEntities;
 using Rabobank.Training.ViewModels.Entities;
